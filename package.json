@@ -1,0 +1,20 @@
+{
+  "name": "transfer-thirdweb",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@thirdweb-dev/react": "^2.4.8",
+    "@thirdweb-dev/sdk": "^2.3.27",
+    "csv": "^6.2.0",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9",
+    "log4js": "^6.6.0"
+  }
+}
